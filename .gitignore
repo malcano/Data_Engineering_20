@@ -1,0 +1,9 @@
+jupyter_notebook_config.py
+.ipynb_checkpoints
+*.md
+python/data/
+*.png
+*.csv
+*.pdf
+*.txt
+
